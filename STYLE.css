@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main_heading {
+    color: white;
+    font-size: 25px;
+    font-family: roboto;
+    font-weight: 600;
+}
+
+#content_section {
+    color: white;
+    font-family: roboto;
+    font-weight: 500;
+
+}
+
+#content_section_experience {
+    color: white;
+    font-family: roboto;
+    font-weight: 500;
+
+}
+
+#content_section_project {
+    color: white;
+    font-family: roboto;
+    font-weight: 500;
+
+}
+
+.profession_heading {
+    color: blue;
+    font-weight: 600;
+    font-family: "Times New Roman";
+    font-size: 40px;
+}
+
+.background_section_card {
+    background-image: url("https://res.cloudinary.com/djpw9wtdu/image/upload/v1690081961/background_mrtguu.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.img_section_card {
+    height: 300px;
+    width: 20vw;
+    border-radius: 20px;
+}
+
+.heding_section {
+    color: orangered;
+    font-weight: bold;
+    font-family: Caveat;
+    font-size: 5rem;
+}
+
+.college_section {
+    color: rgb(172, 168, 196);
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+
+.button {
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    color: orange;
+    font-family: roboto;
+    padding: 10px;
+    width: 100px;
+    background-color: transparent;
+    font-weight: 500;
+}
+
+.about_me_card_background_section {
+    background-color:black;
+    padding: 20px;
+
+}
+
+.about_me_heading_section {
+    color: black;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.me_heading_section {
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.about_me_img {
+    height: 250px;
+    width: 100%;
+    border-radius: 22px;
+}
+
+.about_me_description {
+    color: white;
+    font-size: 18px;
+    font-family: roboto;
+    text-align: left;
+}
+
+.skill_section {
+    background-color: grey;
+    width: auto;
+}
+
+.skills_img_section {
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+.skills_img_section1 {
+    height: 150px;
+    width: 80px;
+}
+
+.skills_img_title {
+    color: black;
+    font-style: bold;
+    font-family: roboto;
+    font-size: 28px;
+    font-weight: 500;
+
+}
+
+.contact_background-section-card {
+    background-color: #0d2436;
+}
+
+.contact_img-card-section {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+}
+
+.contact_heading-section-card {
+    color: #cced00;
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.contact_description-card {
+    color: #9aa5b1;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.contact_image-identification {
+    color: whitesmoke;
+    font-size: 18px;
+}
+
+.contact_footer-section-container {
+    color: #5a7184;
+    background-color: #001c32;
+    padding: 10px;
+    text-align: center;
+}
+
+.certificates_background {
+    background-color:whitesmoke;
+    padding: 20px;
+}
+
+.certificates_img_adjust {
+    height: 70vh;
+    width: 100px;
+    text-align: center;
+}
